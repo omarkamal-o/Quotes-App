@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+.home h1{
+    font-family: Impact;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: normal;
+    color: black;
+}
+.home p{
+    font-family: "Times New Roman";
+    font-weight: 400;
+    line-height: normal;
+    font-size: 35px;
+    color: black;
+}
+.home button{
+    padding: 30px 80px;
+    background-color: blue;
+    color: white;
+}
+.home button:hover{
+    background-color: #008000;
+    cursor: auto;
+}
